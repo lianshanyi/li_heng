@@ -1,0 +1,51 @@
+/**
+    data:2018/10/16 11:05
+    author:lk
+    description:this is shop list,which section of me
+ */
+body {
+  color: #818181;
+  font-size: .14rem; }
+  body h2 {
+    font-weight: 400;
+    color: #000;
+    font-size: .22rem; }
+
+/*header {*/
+  /*padding: .16rem .11rem .16rem .2rem;*/
+  /*display: flex;*/
+  /*align-items: center;*/
+  /*justify-content: space-between; }*/
+  /*header img {*/
+    /*width: .22rem;*/
+    /*height: .22rem; }*/
+
+/*section {*/
+  /*height: 100%;*/
+  /*border-top: .01rem solid #e7e7e7;*/
+  /*background: #f4f4f4; }*/
+  /*section ul li {*/
+    /*background: #fff;*/
+    /*margin-top: .1rem; }*/
+    /*section ul li a {*/
+      /*color: #343434; }*/
+      /*section ul li a img {*/
+        /*width: 100%;*/
+        /*height: 1.73rem; }*/
+      /*section ul li a div {*/
+        /*line-height: .24rem;*/
+        /*padding: .15rem .2rem; }*/
+        /*section ul li a div h3 {*/
+          /*font-size: .15rem; }*/
+        /*section ul li a div p {*/
+          /*display: flex;*/
+          /*align-items: center;*/
+          /*justify-content: space-between; }*/
+          /*section ul li a div p span {*/
+            /*display: flex;*/
+            /*align-items: center; }*/
+            /*section ul li a div p span img {*/
+              /*width: .14rem;*/
+              /*height: .14rem; }*/
+
+/*# sourceMappingURL=hema-me-shoplist.css.map */

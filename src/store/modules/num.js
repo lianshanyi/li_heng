@@ -1,0 +1,30 @@
+export default {
+  //存放共享的state;
+  state:{
+    num:0
+  },
+  //用来更改state状态;
+  mutations:{
+    ADDXX:(state,args)=>{
+      state.num=1;
+    },
+    JIXX:(state,args)=>{
+      state.num=0;
+    }
+  },
+  //获取外部请求
+  actions:{
+    TOADD:(store,arges)=>{
+      store.commit("ADDXX")
+    },
+    TOJIAN:(store,arges)=>{
+      store.commit("JIXX")
+    }
+  },
+  //获取状态值
+  getters:{
+    GETXX:(state)=>{
+      return state.num;
+    }
+  }
+}

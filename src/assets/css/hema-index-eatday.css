@@ -1,0 +1,128 @@
+/**
+    data:2018/10/16
+    author:lk
+    description:sub page of index,named eat day
+ */
+/*header*/
+/*header {*/
+  /*display: flex;*/
+  /*justify-content: space-between;*/
+  /*align-items: center;*/
+  /*padding: .13rem .2rem; }*/
+  /*header a img {*/
+    /*width: .27rem;*/
+    /*height: .27rem; }*/
+  /*header h2 {*/
+    /*color: #000;*/
+    /*letter-spacing: .01rem;*/
+    /*margin-left: .32rem;*/
+    /*font-weight: 400;*/
+    /*font-size: .2rem; }*/
+  /*header div {*/
+    /*display: flex; }*/
+    /*header div a:nth-of-type(1) img {*/
+      /*margin-right: .17rem; }*/
+
+/*section header {*/
+  /*position: relative;*/
+  /*height: 3.34rem;*/
+  /*background: url("../img/img-eatday/bg-top-1.jpg");*/
+  /*-webkit-background-size: 100% 100%;*/
+  /*background-size: 100% 100%; }*/
+  /*section header ul {*/
+    /*height: .32rem;*/
+    /*position: absolute;*/
+    /*left: .72rem;*/
+    /*bottom: .56rem;*/
+    /*display: flex; }*/
+    /*section header ul li {*/
+      /*display: flex;*/
+      /*justify-content: center;*/
+      /*align-items: center;*/
+      /*margin-right: .15rem;*/
+      /*width: .34rem;*/
+      /*height: .34rem;*/
+      /*border-radius: .02rem;*/
+      /*background: #412851;*/
+      /*background: blue; }*/
+      /*section header ul li em {*/
+        /*font-size: .15rem;*/
+        /*color: #fff; }*/
+/*section .container .banner-con a img {*/
+  /*width: 100%;*/
+  /*height: 1.32rem; }*/
+/*section .container ul {*/
+  /*display: flex;*/
+  /*justify-content: space-between;*/
+  /*padding: .05rem .12rem 0;*/
+  /*background: #fe7b2b;*/
+  /*width: 100%;*/
+  /*-webkit-box-sizing: border-box;*/
+  /*-moz-box-sizing: border-box;*/
+  /*box-sizing: border-box;*/
+  /*flex-wrap: wrap; }*/
+  /*section .container ul li {*/
+    /*position: relative;*/
+    /*padding: 0 .08rem .08rem;*/
+    /*margin-bottom: .05rem;*/
+    /*width: 32.5%;*/
+    /*background: #fff;*/
+    /*border-radius: .03rem;*/
+    /*-webkit-box-sizing: border-box;*/
+    /*-moz-box-sizing: border-box;*/
+    /*box-sizing: border-box; }*/
+    /*section .container ul li em {*/
+      /*width: 100%;*/
+      /*position: absolute;*/
+      /*top: .72rem;*/
+      /*left: 0;*/
+      /*font-size: .12rem;*/
+      /*line-height: .19rem;*/
+      /*color: #f4f4f4;*/
+      /*background: #000;*/
+      /*opacity: .32;*/
+      /*text-align: center; }*/
+    /*section .container ul li a {*/
+      /*display: flex;*/
+      /*flex-direction: column; }*/
+      /*section .container ul li a img {*/
+        /*width: 100%;*/
+        /*height: .95rem; }*/
+      /*section .container ul li a h3 {*/
+        /*font-size: .12rem;*/
+        /*color: #030303;*/
+        /*font-weight: 400;*/
+        /*margin-top: -.02rem;*/
+        /*height: .36rem;*/
+        /*overflow: hidden;*/
+        /*line-height: .18rem; }*/
+      /*section .container ul li a > span {*/
+        /*margin-top: .05rem;*/
+        /*color: #e62625;*/
+        /*font-size: .1rem; }*/
+        /*section .container ul li a > span > span {*/
+          /*margin: 0 .02rem;*/
+          /*border-radius: .02rem;*/
+          /*border: .01rem solid #e62625; }*/
+      /*section .container ul li a i {*/
+        /*color: #cbcbcb;*/
+        /*margin-top: .05rem;*/
+        /*font-size: .1rem;*/
+        /*text-decoration: line-through; }*/
+      /*section .container ul li a p {*/
+        /*display: flex;*/
+        /*justify-content: space-between;*/
+        /*align-items: flex-end; }*/
+        /*section .container ul li a p span {*/
+          /*color: #f65646;*/
+          /*font-weight: bold;*/
+          /*font-size: .11rem; }*/
+          /*section .container ul li a p span span {*/
+            /*font-weight: 100;*/
+            /*font-size: .09rem;*/
+            /*color: #8d8c8b; }*/
+        /*section .container ul li a p img {*/
+          /*width: .24rem;*/
+          /*height: .24rem; }*/
+
+/*# sourceMappingURL=hema-index-eatday.css.map */
